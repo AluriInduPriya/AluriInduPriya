@@ -1,6 +1,6 @@
 ## Hi 👋 I an Indu Priya
 
-🎓 I'm currently B.Tech final-year student in Computer Science Engineering (CIC)  at VVIT.  
+🎓 I'm currently B.Tech final-year student in Computer Science and Engineering CSE(CIC) at VVIT.  
 💻 Passionate about Full Stack Development, Cybersecurity, and solving real-world problems with code.  
 🚀 Currently building secure, innovative applications that make an impact!
 
