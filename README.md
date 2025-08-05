@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I an Indu Priya
 
-<!--
-**AluriInduPriya/AluriInduPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently B.Tech final-year student in Computer Science Engineering (CIC)  at VVIT.  
+💻 Passionate about Full Stack Development, Cybersecurity, and solving real-world problems with code.  
+🚀 Currently building secure, innovative applications that make an impact!
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 CyberSuite – File Scanner & Network Monitor  
+A Python-based GUI application that scans uploaded files for malware, detects ARP spoofing, monitors IP/MAC activity, and enables secure file transfers.  
+**Tech Stack:** Python, PyQt, Scapy, Socket Programming, Multithreading  
+
+### 🌾 Blockchain-Based Crop Insurance in TalentFarm 
+A smart insurance platform for farmers that leverages satellite data and blockchain smart contracts to automate and ensure transparent payouts.  
+**Tech Stack:** Solidity, Node.js, Web3.js, MongoDB, JavaScript  
+
+## 💡 Skills & Technologies
+
+**Programming Languages:** : Java, C#, Python, JavaScript, HTML, CSS
+
+**Frameworks & Tools:** : ASP.NET Core, PyQt, Node.js, MongoDB, Git, Bootstrap, jQuery, Web3.js, Scapy
+
+**Domains & Interests:** 
+Cybersecurity, ARP Spoofing Detection, File Security, Blockchain, Smart Contracts, Web Development.
+
+
+## 📫 Connect With Me
+
+- 📧 Email: aluriindu123@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aluri-indu-priya-503a27269/
